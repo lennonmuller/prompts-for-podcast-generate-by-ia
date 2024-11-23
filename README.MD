@@ -68,8 +68,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 <p>
     
-    <p>&nbsp&nbsp&nbspLennon Müler<br>
-    &nbsp&nbsp&nbsp
+
     <a 
         href="https://github.com/lennonmuller">
         GitHub
